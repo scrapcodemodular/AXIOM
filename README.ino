@@ -2,7 +2,7 @@
    https://www.scrapcode.co.uk
 
   This code is designed to be uploaded to an ATMEGA328PU microcontroller using the Arduino IDE.
-  When installed in a circuit built using the schematic also found on the Scrapcode Modular website, it will allow the creation of an AXIOM module.
+  When installed in a circuit built using the included schematic, it will allow the creation of the AXIOM module.
 
   For more inoframtion please feel free to get in touch at info@scrapcode.co.uk
 

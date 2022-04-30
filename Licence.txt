@@ -1,5 +1,5 @@
 
-The AXIOM code is provided under a creative commons CC BY-NC-SA licence.
+The AXIOM code is provided by Scrapcode Modular (Adrian Winward) under a creative commons CC BY-NC-SA licence.
 Put simply, this means that you are free to use them however you see fit provided it is for non-commercial purposes.
 More information and the full licence can be found at: https://creativecommons.org/licenses/by-nc-sa/4.0/
 

@@ -21,7 +21,9 @@ For more information please feel free to get in touch at info@scrapcode.co.uk
 This module generates and outputs rhythms created using three such statements:
 
 ***Hits*** -  The number of notes to be played in each round of the sequence. Hits are as evenly spaced as possible, with longer gaps tending towards the end of each sequence.
+
 ***Steps*** - The number of Steps defines the length of each sequence.
+
 ***Offset*** - The starting position from which each sequence begins, with any overspill wrapped around to the beginning.
 
 These three parameters can be controlled using both the knobs and CV inputs.

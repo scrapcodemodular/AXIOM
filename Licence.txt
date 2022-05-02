@@ -1,11 +1,11 @@
 
-The AXIOM code is provided by Scrapcode Modular (Adrian Winward) under a creative commons CC BY-NC-SA licence.
-Put simply, this means that you are free to use them however you see fit provided it is for non-commercial purposes.
+The AXIOM code is provided by Scrapcode Modular (https://www.scrapcode.co.uk) under a creative commons CC BY-NC-SA licence.
+Put simply, this means that you are free to use it however you see fit, provided it is for non-commercial purposes.
 More information and the full licence can be found at: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
 
-  This software makes use of the U8g2lib library by olikraus, and is subject to the following terms:
+  This software makes use of the U8g2lib library by olikraus, which is subject to the following terms:
   
 
   The U8g2lib code (https://github.com/olikraus/u8g2) is licensed under the terms of

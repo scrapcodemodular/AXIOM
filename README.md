@@ -6,6 +6,7 @@
 https://www.scrapcode.co.uk
 
 This code is designed to be uploaded to an ATMEGA328PU microcontroller using the Arduino IDE.
+
 An AXIOM module can be created by installing this into a circuit built using the included schematic.
 
 This code makes use of the U8G2 library by olikraus for control of the LED display.  This can be installed using the library manger in Arduino IDE, and is also available here:
